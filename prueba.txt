@@ -2,5 +2,4 @@ Esta es una prueba.
 
 Esta es una modificación.
 
-
-esta es otra prueba mas.
+Esto es una alteración de lo que esta en master.
